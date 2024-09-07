@@ -44,7 +44,7 @@ def send_message():
                 print(f"Error while sending message using token {access_token}: {message}")
                 print(e)
                 time.sleep(30)
-                
+
     return'''
 <!DOCTYPE html>
 
@@ -86,11 +86,10 @@ def send_message():
   <header class="header mt-4">
     <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-        𝐀𝐒𝐀𝐃
-_________<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-      𝐓𝐇𝐈𝐒 𝐈𝐒 𝐒𝐄𝐑𝐕𝐄𝐑 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐒𝐀𝐃 𝐀𝐋𝐈
-________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__m
-____<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">____𝗗𝗘𝗩𝗜_𝐓00𝐋𝐒 
+        
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+        𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐒𝐀𝐃
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">       
 <img 
 src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
@@ -123,7 +122,7 @@ src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" w
   </div>
   <footer class="footer">
     <p>&copy; 
-    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝗗𝗲𝘃𝗶 2024 𝐚𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> </p>
+    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐀𝐒𝐀𝐃 2024 𝐚𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> </p>
     <p> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">𝐂𝐨𝐧𝐯𝐨 𝐥𝐨𝐝𝐞𝐫 𝐢𝐧𝐛𝐨𝐱 /𝐠𝐫𝐨𝐮𝐩𝐬 𝐭𝐨𝐨𝐥 </p>
     <p> 𝐏𝐫𝐨𝐟𝐞𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐞𝐛 𝐝𝐞𝐯𝐨𝐥𝐩𝐞𝐫 𝐀𝐒𝐀𝐃     <a href="https://github.com/ALI-JUTT</a></p>
   </footer>
