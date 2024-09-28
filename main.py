@@ -52,7 +52,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> TECH BABA SERVER </title>
+  <title> CONVO SERVER </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -88,7 +88,7 @@ def send_message():
    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
         
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-        𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐒𝐀𝐃
+        𝐌𝐀𝐃𝐄 𝐁𝐘 𝗥𝗔𝗝𝗩𝗘𝗘𝗥 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">       
 <img 
 src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -124,7 +124,7 @@ src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" w
     <p>&copy; 
     <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐀𝐒𝐀𝐃 2024 𝐚𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> </p>
     <p> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">𝐂𝐨𝐧𝐯𝐨 𝐥𝐨𝐝𝐞𝐫 𝐢𝐧𝐛𝐨𝐱 /𝐠𝐫𝐨𝐮𝐩𝐬 𝐭𝐨𝐨𝐥 </p>
-    <p> 𝐏𝐫𝐨𝐟𝐞𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐞𝐛 𝐝𝐞𝐯𝐨𝐥𝐩𝐞𝐫 𝐀𝐒𝐀𝐃     <a href="https://github.com/ALI-JUTT</a></p>
+    <p> 𝐏𝐫𝐨𝐟𝐞𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐞𝐛 𝐝𝐞𝐯𝐨𝐥𝐩𝐞𝐫 𝗥𝗔𝗝𝗩𝗘𝗘𝗥   <a href="https://github.com/ALI-JUTT</a></p>
   </footer>
 </body>
   </html>
