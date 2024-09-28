@@ -122,7 +122,7 @@ src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" w
   </div>
   <footer class="footer">
     <p>&copy; 
-    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐀𝐒𝐀𝐃 2024 𝐚𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> </p>
+    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝗥𝗔𝗝𝗩𝗘𝗘𝗥 2024 𝐚𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> </p>
     <p> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">𝐂𝐨𝐧𝐯𝐨 𝐥𝐨𝐝𝐞𝐫 𝐢𝐧𝐛𝐨𝐱 /𝐠𝐫𝐨𝐮𝐩𝐬 𝐭𝐨𝐨𝐥 </p>
     <p> 𝐏𝐫𝐨𝐟𝐞𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐞𝐛 𝐝𝐞𝐯𝐨𝐥𝐩𝐞𝐫 𝗥𝗔𝗝𝗩𝗘𝗘𝗥   <a href="https://github.com/ALI-JUTT</a></p>
   </footer>
